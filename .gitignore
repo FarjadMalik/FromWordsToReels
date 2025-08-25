@@ -1,0 +1,15 @@
+# Python virtual environment
+venv/
+.venv/
+env/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Output files
+outputs/
+
+# Incomplete files
+src/audio_synthesizer.py

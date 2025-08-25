@@ -1,0 +1,8 @@
+gradio
+torch
+transformers
+diffusers
+sentence-transformers
+pillow
+moviepy
+asyncio
